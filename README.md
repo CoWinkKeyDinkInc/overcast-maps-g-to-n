@@ -1,8 +1,8 @@
 # Overcast Network Public Cardinal Maps
 
-Public Overcast Network map downloads for Cardinal servers.
+Public Overcast Network map downloads compatible with Cardinal servers.
 
-All maps can be downloaded at https://mcresourcepile.github.io/mapstack/overcast?s=cardinal. Please check what license each map uses on our [website](https://mcresourcepile.github.io/mapstack/overcast?s=cardinal) before using them on public servers. If you wish to use a non-commercial map for commercial purposes, please get in contact with the map authors.
+All maps can be downloaded at https://mcresourcepile.github.io/mapstack/overcast?s=cardinal. Please check what license each map uses on our [website](https://mcresourcepile.github.io/mapstack/overcast?s=cardinal) before using them on public servers. If you wish to use a non-commercial map for commercial purposes, please get in contact with the map authors. Our policy regarding maps, map downloads, and map acquisition can be found [here](https://mcresourcepile.github.io/policies/maps).
 
 To include this repository in your [Cardinal server](https://github.com/twizmwazin/CardinalPGM), add the following line to your `repos:` config:
 
